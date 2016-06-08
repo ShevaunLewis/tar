@@ -1,0 +1,148 @@
+"quizcode","qid","topic","question","response_type","quizname","correct"
+"w10.1","q1","universals_variation","Although languages around the world look very different, there are some universal properties that all languages share.","agree-scale","W10-1: Universals and variatio",""
+"w10.1","q2","universals_variation","Languages around the world are more similar to each other than they are different.","agree-scale","W10-1: Universals and variatio",""
+"w10.1","q3","universals_variation","Differences between languages can usually be explained by cultural differences.","agree-scale","W10-1: Universals and variatio",""
+"w10.1","q4","universals_variation","It is inevitable that languages change over time.","agree-scale","W10-1: Universals and variatio",""
+"w10.1","q5","universals_variation","If people speaking a certain language had no contact with any other languages (say, if they lived on an isolated island), their language would never change.","agree-scale","W10-1: Universals and variatio",""
+"w10.1","q6","universals_variation","Although there are many, many different possible grammars, all these possibilities can be expressed as a combination of a few (40-50) binary choices.","agree-scale","W10-1: Universals and variatio",""
+"w10.1","q7","learning","Children's errors are almost always consistent with the grammar of some other language.","agree-scale","W10-1: Universals and variatio",""
+"w10.1","q8","learning","Some of children's errors are due to physical limitations or limited resources, rather than the wrong grammar.","agree-scale","W10-1: Universals and variatio",""
+"w10.2","q1","check-in","How comprehensible did you find the reading?","multi_choice","W10-2: Reading",""
+"w13.1","q1","goals","How confident are you that you can: describe different stages of language development?","learning-confidence-scale","W13-1: Wrap-up",""
+"w13.1","q10","milestones","Around what age have children mastered most of the grammar of their first language? (Be sure to indicate months or years.)","free","W13-1: Wrap-up",""
+"w13.1","q11","learning","Some languages are easier to learn than others.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q12","learning","Infants are born with the ability ot learn any language if they are exposed to it: race and ethnicity play no role.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q13","learning","Talking to children in ñbaby talkî slows down language development.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q14","learning","ItÍs important to correct childrenÍs errors when they say things like ñme like bananasî or ñthe dog eatedî.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q15","learning","Children learn to speak by copying what they hear from people around them.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q16","learning","Parents must take an active role in teaching their children language: babies canÍt learn on their own!","tf-scale","W13-1: Wrap-up",""
+"w13.1","q17","learning","Kindergarten and elementary school teachers are responsible for teaching children how to speak their language.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q18","learning","Children tend to learn language faster when their parents talk to them more.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q19","learning","Children can learn language just as well from TV.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q2","goals","How confident are you that you can:
+analyze the phonological, syntactic, and semantic properties of utterances?","learning-confidence-scale","W13-1: Wrap-up",""
+"w13.1","q20","learning","Children pick up their first language on their own by listening to people talk. They donÍt need any teaching from their parents or in school.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q21","grammar_beliefs","In casual conversation, people don't follow any particular rules of sentence structure.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q22","grammar_beliefs","The ""proper"" grammar that you learn in school helps make language more logical and less redundant.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q23","grammar_beliefs","The rules of natural language are simpler than the rules of ""proper"" or written language.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q24","grammar_beliefs","Some languages have strict rules of grammar, while others are less rigid.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q25","grammar_beliefs","Languages change over time to become less formal.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q26","linguistic_determinism","Some languages express certain concepts more efficiently than others.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q27","linguistic_determinism","Although languages have different words and structures, they can all express ideas equally well.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q28","linguistic_determinism","Some languages might lack a word for a particular concept, and thus be unable to express that concept.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q29","sound_beliefs","The English spelling system would be better if it were more ""phonetic"": that is, if it more closely represented the sounds of the words.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q3","goals","How confident are you that you can:
+recognize interesting language and speech phenomena in everyday conversation?","learning-confidence-scale","W13-1: Wrap-up",""
+"w13.1","q30","sound_beliefs","English has some unique sounds that aren't used in other languages.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q31","sound_beliefs","There are short pauses between words in spoken sentences, just like there are spaces between written words.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q32","sound_beliefs","American English is more slurred together than British English.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q33","learning","Children learn the meanings of words by gradually strengthening the association between a certain sound and a certain thing in the world. Each time they hear a word paired with something they're seeing at the same time, the association gets stronger.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q34","learning","Children need to learn a lot of words before they can learn anything about how to put words together in sentences.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q35","learning","Children take longer to learn complex inflectional systems (like verb conjugation in Italian) than simple ones (like verb conjugation in English).","tf-scale","W13-1: Wrap-up",""
+"w13.1","q36","learning","1-year-olds can use sentence structure to guess the meaning of a new word.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q37","universals_variation","Although languages around the world look very different, there are some universal properties that all languages share.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q38","universals_variation","Differences between languages can usually be explained by cultural differences.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q39","universals_variation","It is inevitable that languages change over time.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q4","goals","How confident are you that you can:
+explain how language is a product of both ""nature"" and ""nurture"", and how we know?","learning-confidence-scale","W13-1: Wrap-up",""
+"w13.1","q40","universals_variation","If people speaking a certain language had no contact with any other languages (say, if they lived on an isolated island), their language would never change.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q41","learning","Children's errors are almost always consistent with the grammar of some other language.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q42","learning","Some of children's errors are due to physical limitations or limited resources, rather than the wrong grammar.","tf-scale","W13-1: Wrap-up",""
+"w13.1","q5","goals","How confident are you that you can:
+describe experimental techniques we can use to investigate what infants know?","learning-confidence-scale","W13-1: Wrap-up",""
+"w13.1","q6","goals","How confident are you that you can:
+discuss the role of parents and other caregivers in children's language development?","learning-confidence-scale","W13-1: Wrap-up",""
+"w13.1","q7","goals","How confident are you that you can:
+explian what you've learned about language and child development to people with no backgroun in linguistics or science?","learning-confidence-scale","W13-1: Wrap-up",""
+"w13.1","q8","milestones","Around what age do children start saying their first words? (Be sure to indicate months or years.)","free","W13-1: Wrap-up",""
+"w13.1","q9","milestones","Around what age can children say about 1000 words? (Be sure to indicate months or years.)","free","W13-1: Wrap-up",""
+"w2.2","q1","check-in","Language as instinct:","understanding-scale","W2-2M: Language as instinct",""
+"w2.2","q2","check-in","What's still unconvincing or confusing?","free","W2-2M: Language as instinct",""
+"w2.3","q1","languageVsCommunication","Regional or minority dialects (e.g. African American English, southern English, Cockney English)","tf","W2-3M: Which are real language","t"
+"w2.3","q2","languageVsCommunication","Pidgins (e.g. Hawaiian pidgin)","tf","W2-3M: Which are real language","f"
+"w2.3","q3","languageVsCommunication","Creoles (e.g. Louisiana Creole, Haitian Creole, Hawaiian Creole)","tf","W2-3M: Which are real language","t"
+"w2.3","q4","languageVsCommunication","Sign languages (e.g. American Sign Language)","tf","W2-3M: Which are real language","t"
+"w2.3","q5","languageVsCommunication","Homesign (signs that deaf children of hearing parents invent to communicate with their families)","tf","W2-3M: Which are real language","f"
+"w2.4","q1","inference","Most dogs are adorable. Jasper is a dog. Therefore, Jasper is probably adorable.","two-choice","W2-4M: Inductive inference","A"
+"w2.4","q2","inference","John, Bob, and Harry are men. John, Bob and Harry have legs. Therefore, most men probably have legs.","two-choice","W2-4M: Inductive inference","B"
+"w2.4","q3","inference","In a survey of 1000 American adults, 64% of women said they liked asparagus, while 73% of men said they liked it. Therefore, American men like asparagus more than American women.","two-choice","W2-4M: Inductive inference","B"
+"w2.4","q4","inference","Previous studies suggest that children can learn any language, as long as they are exposed to it enough before the age of 5 years or so. Tommy is 2 years old, and his parents are speaking to him equally often in English and Mandarin. Therefore, we expect Tommy to learn both English and Mandarin.","two-choice","W2-4M: Inductive inference","A"
+"w3.1","q1","grammar_beliefs","In casual conversation, people don't follow any particular rules of sentence structure.","tf-scale","W3-1M: Grammar",""
+"w3.1","q2","grammar_beliefs","The ""proper"" grammar that you learn in school helps make language more logical and less redundant.","tf-scale","W3-1M: Grammar",""
+"w3.1","q3","grammar_beliefs","The rules of natural language are simpler than the rules of ""proper"" or written language.","tf-scale","W3-1M: Grammar",""
+"w3.1","q4","grammar_beliefs","Some languages have strict rules of grammar, while others are less rigid.","tf-scale","W3-1M: Grammar",""
+"w3.1","q5","grammar_beliefs","Everyone would understand each other more easily if we all followed the rules of grammar.","tf-scale","W3-1M: Grammar",""
+"w3.1","q6","grammar_beliefs","Languages change over time to become less formal.","tf-scale","W3-1M: Grammar",""
+"w3.1","q7","grammar_beliefs","English has changed over time, so we don't speak Shakespearean English anymore. Overall, this is...","value-scale","W3-1M: Grammar",""
+"w3.2","q1","acceptability","For each of the following sentences, decide whether it is an acceptable sentence of English. If so, write ""ok"". If not, explain as best you can why not. 
+""Susie wondered who she should go to the dance with.""","free","W3-2M: Acceptability",""
+"w3.2","q2","acceptability","""John wants that his roommate do the dishes for once.""","free","W3-2M: Acceptability",""
+"w3.2","q3","acceptability","""Our mission is to boldly go where no man has gone before.""","free","W3-2M: Acceptability",""
+"w3.2","q4","acceptability","""Ryan's mom wanted him to call herself every day.""","free","W3-2M: Acceptability",""
+"w3.2","q5","acceptability","""If you want to sell the house, it needs painted.""","free","W3-2M: Acceptability",""
+"w3.3","q1","descriptive_prescriptive","Indicate whether each of the following statements is a DESCRIPTIVE or a PRESCRIPTIVE rule about English.Don't use double negatives (e.g. ""I ain't got no reason to go"") because they're illogical.æ","two-choice","W3-3M: Descriptive or prescrip","B"
+"w3.3","q2","descriptive_prescriptive","People often use passives to avoid saying who did the action, as in ""The victim was drugged.""","two-choice","W3-3M: Descriptive or prescrip","A"
+"w3.3","q3","descriptive_prescriptive","It's ungrammatical to say ""between you and I"", because ""I"" is the object of the preposition ""between"". The correct form is ""between you and me"".æ","two-choice","W3-3M: Descriptive or prescrip","B"
+"w3.3","q4","descriptive_prescriptive","""Their"", ""they're"", and ""there"" are three different words, so they should be spelled differently.æ","two-choice","W3-3M: Descriptive or prescrip","B"
+"w3.3","q5","descriptive_prescriptive","People often say, ""I could care less,"" when what they mean is that they don't care at all, and thus could NOT care less.æ","two-choice","W3-3M: Descriptive or prescrip","A"
+"w3.4","q1","grammar_beliefs","In casual conversation, people don't follow any particular rules of sentence structure.","tf-scale","W3-4M: Grammar, again",""
+"w3.4","q2","grammar_beliefs","The ""proper"" grammar that you learn in school helps make language more logical and less redundant.","tf-scale","W3-4M: Grammar, again",""
+"w3.4","q3","grammar_beliefs","The rules of natural language are simpler than the rules of ""proper"" or written language.","tf-scale","W3-4M: Grammar, again",""
+"w3.4","q4","grammar_beliefs","Some languages have strict rules of grammar, while others are less rigid.","tf-scale","W3-4M: Grammar, again",""
+"w3.4","q5","grammar_beliefs","Everyone would understand each other more easily if we all followed the rules of grammar.","tf-scale","W3-4M: Grammar, again",""
+"w3.5","q1","linguistic_determinism","Some languages express certain concepts more efficiently than others.","tf-scale","W3-5W: Linguistic determinism",""
+"w3.5","q2","linguistic_determinism","Some languages might lack a word for a particular concept, and thus be unable to express that concept.","tf-scale","W3-5W: Linguistic determinism",""
+"w3.5","q3","linguistic_determinism","Although languages have different words and structures, they can all express ideas equally well.","tf-scale","W3-5W: Linguistic determinism",""
+"w3.5","q4","linguistic_determinism","It's possible to have a thought that you can't express in words.","tf-scale","W3-5W: Linguistic determinism",""
+"w3.5","q5","linguistic_determinism","People from different cultures tend to divide up the world into different categories.","tf-scale","W3-5W: Linguistic determinism",""
+"w4.1","q1","sound_beliefs","The English spelling system would be better if it were more ""phonetic"": that is, if it more closely represented the sounds of the words.","tf-scale","W4-1M: Sounds of language",""
+"w4.1","q2","sound_beliefs","Most languages (unlike English) are phonetic: they're pronounced how they're written.","tf-scale","W4-1M: Sounds of language",""
+"w4.1","q3","sound_beliefs","English has some unique sounds that aren't used in other languages.","tf-scale","W4-1M: Sounds of language",""
+"w4.1","q4","sound_beliefs","Some languages are inherently more pleasant sounding than others.","tf-scale","W4-1M: Sounds of language",""
+"w4.1","q5","sound_beliefs","There are short pauses between words in spoken sentences, just like there are spaces between written words.","tf-scale","W4-1M: Sounds of language",""
+"w4.1","q6","sound_beliefs","American English is more slurred together than British English.","tf-scale","W4-1M: Sounds of language",""
+"w4.2","q1","phonology","""Striking"": How many syllables?","three-choice","W4-2M: Phonology","A"
+"w4.2","q2","phonology","""Striking"": How many vowels? (By ""vowels"" I mean vowel sounds, not letters representing vowels.)","three-choice","W4-2M: Phonology","B"
+"w4.2","q3","phonology","""Striking"": How many consonants? (By ""consonants"" I mean consonant sounds, not letters representing consonants.)","three-choice","W4-2M: Phonology","B"
+"w4.2","q4","phonology","""Examine"": How many syllables?","three-choice","W4-2M: Phonology","B"
+"w4.2","q5","phonology","""Examine"": How many vowels?","three-choice","W4-2M: Phonology","A"
+"w4.2","q6","phonology","""Examine"": How many consonants?","three-choice","W4-2M: Phonology","B"
+"w4.2","q7","phonology","About how many different vowel sounds does English have?","three-choice","W4-2M: Phonology","C"
+"w4.2","q8","phonology","Do you pronounce ""writer"" and ""rider"" the same? If not, what's different between the two?","free","W4-2M: Phonology",""
+"w4.3","q1","phonetics","[k__t]","free","W4-3M: Phonetics","kite"
+"w4.3","q2","phonetics","[k__ld]","free","W4-3M: Phonetics","crawled"
+"w4.3","q3","phonetics","[__t_]","free","W4-3M: Phonetics","rich"
+"w4.3","q4","phonetics","[klo__]","free","W4-3M: Phonetics","clothe"
+"w4.3","q5","phonetics","[b_ks]","free","W4-3M: Phonetics","box"
+"w4.3","q6","phonetics","[_ule_s]","free","W4-3M: Phonetics","shoelace"
+"w6.1","q1","learning","Children learn the meanings of words by gradually strengthening the association between a certain sound and a certain thing in the world. Each time they hear a word paired with something they're seeing at the same time, the association gets stronger.","tf-scale","W6-1: Word learning",""
+"w6.1","q2","learning","Motherese (or ""baby talk"") is necessary to help infants learn their first language.","tf-scale","W6-1: Word learning",""
+"w6.1","q3","learning","Parents should avoid speaking to their babies in ""motherese"" or ""baby talk"", because it slows down language development.","tf-scale","W6-1: Word learning",""
+"w6.1","q4","learning","Children need to learn a lot of words before they can learn anything about how to put words together in sentences.","tf-scale","W6-1: Word learning",""
+"w6.1","q5","learning","Children take longer to learn complex inflectional systems (like verb conjugation in Italian) than simple ones (like verb conjugation in English).","tf-scale","W6-1: Word learning",""
+"w6.1","q6","learning","1-year-olds can use sentence structure to guess the meaning of a new word.","tf-scale","W6-1: Word learning",""
+"w9.1","q1","structure_dependence","What is structure dependence?","free","W9-1: Crain & Thornton",""
+"w9.1","q2","structure_dependence","If children only consider structure-dependent rules when learning the grammar of their language, how might they respond to the instruction, ""Ask Jabba if the boy who is watching Mickey Mouse is happy.""? Select all the possible responses.","select_all","W9-1: Crain & Thornton","AC"
+"w9.1","q3","structure_dependence","If children consider *any* rules, regardless of structure, when learning the grammar of their language, how might they respond to the instruction, ""Ask Jabba if the boy who is watching Mickey Mouse is happy.""? Select all the possible responses.","select_all","W9-1: Crain & Thornton","ABC"
+"w1","q10","learning","Parents must take an active role in teaching their children language: babies can't learn on their own!","tf-scale",NA,NA
+"w1","q11","learning","Kindergarten and elementary school teachers are responsible for teaching children how to speak their language. ","tf-scale",NA,NA
+"w1","q12","learning","Children tend to learn language faster when their parents talk to them more. ","tf-scale",NA,NA
+"w1","q13","learning","Children can learn language just as well from TV. ","tf-scale",NA,NA
+"w1","q14","learning","Children pick up their first language on their own by listening to people talk. They don't need any teaching from their parents or in school. ","tf-scale",NA,NA
+"w1","q5","learning","Some languages are easier to learn than others.","tf-scale",NA,NA
+"w1","q6","learning","Infants are born with the ability to learn any language if they are exposed to it: race and ethnicity play no role.","tf-scale",NA,NA
+"w1","q7","learning","Talking to children in ñbaby talkî slows down language development. ","tf-scale",NA,NA
+"w1","q8","learning","It's important to correct children's errors when they say things like ñme like bananasî or ñthe dog eatedî.","tf-scale",NA,NA
+"w1","q9","learning","Children learn to speak by copying what they hear from people around them. ","tf-scale",NA,NA
+"w1","q1a","milestones","Around what age do children start making ""babbling"" noises?","free",NA,NA
+"w1","q1b","milestones","How do you know?","source",NA,NA
+"w1","q1c","milestones","How confident are you in your answer?","confidence-scale",NA,NA
+"w1","q2a","milestones","Around what age do children start saying their first words?","free",NA,NA
+"w1","q2b","milestones","How do you know?","source",NA,NA
+"w1","q2c","milestones","How confident are you in your answer?","confidence-scale",NA,NA
+"w1","q3a","milestones","Around what age (on average) can children say about 1000 words?","free",NA,NA
+"w1","q3b","milestones","How do you know?","source",NA,NA
+"w1","q3c","milestones","How confident are you in your answer?","confidence-scale",NA,NA
+"w1","q4a","milestones","Around what age have children mastered most of the grammar of their first language?","free",NA,NA
+"w1","q4b","milestones","How do you know?","source",NA,NA
+"w1","q4c","milestones","How confident are you in your answer?","confidence-scale",NA,NA
